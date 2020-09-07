@@ -17,4 +17,5 @@ http://covcal-la.herokuapp.com/
 ### Technologies Used
 HTML, CSS, React, Express, Node, PostgreSQL
 
-### Server code: https://github.com/kushpanjabi/covcal_server
+### Server code: 
+https://github.com/kushpanjabi/covcal_server
